@@ -1,0 +1,19 @@
+#Example
+Set variable 'variable' to 1
+
+Define a function called function(Passing parameters: number):
+ 	Set variable 'number' to number + 2
+	return number
+
+Define a class called eggs:
+	Define object constructor Call function function(Passing parameters: self, red, green and blue):
+  		Set variable 'self.red' to red
+  		Set variable 'self.green' to green
+  		Set variable 'self.blue' to blue
+
+if variable  is less than or equal to  2:
+	Call function function(variable)
+
+
+Set variable 'object' to an iteration of class eggs(Passing parameters: 0, 0 and 1)
+Set variable 'variable2' to the return of function function(Passing parameters: 2)

@@ -1,0 +1,19 @@
+#Example
+variable = 1
+
+def function(number):
+	number = number + 2
+	return number
+
+class eggs:
+	def __init__(self, red, green, blue):
+		self.red = red
+		self.green = green
+		self.blue = blue
+
+if variable <= 2:
+	function(variable)
+
+
+object = eggs(0, 0, 1)
+variable2 = function(2)
